@@ -51,7 +51,7 @@ const AboutMe = () => {
             <p>&gt; Cheartsak.cv</p>
             <p className="text-[#e7d184]">
               <a
-                href="/src/assets/CV_Cheartsak.pdf"
+                href="/CV_Cheartsak.pdf"
                 target="_blank"
                 className="text-[#35feff] hover:opacity-75"
               >

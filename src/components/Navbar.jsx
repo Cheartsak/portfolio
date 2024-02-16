@@ -29,15 +29,15 @@ const Navbar = () => {
           </li>
         </ul>
         <div className="bg-[#5a5d7a] text-white rounded-lg px-2 py-1 hover:opacity-75">
-          <a href="/src/assets/CV_Cheartsak.pdf" target="_blank">
+          <a href="/CV_Cheartsak.pdf" target="_blank">
             Download CV
           </a>
         </div>
         <div onClick={handleTheme}>
           {theme === "light" ? (
-            <img src="/src/assets/icons/sun.svg" alt="sun icon" />
+            <img src="/icons/sun.svg" alt="sun icon" />
           ) : (
-            <img src="/src/assets/icons/moon.svg" alt="moon icon" />
+            <img src="/icons/moon.svg" alt="moon icon" />
           )}
         </div>
       </div>

@@ -6,12 +6,12 @@ const Contact = () => {
       </h1>
       <div className="w-fit mx-auto text-lg">
         <div className="flex gap-2 items-center mt-4">
-          <img src="/src/assets/icons/mail.svg" alt="mail icon" />
+          <img src="/icons/mail.svg" alt="mail icon" />
           <p>cheartsak.ta@gmail.com</p>
         </div>
         <div className="flex gap-2 items-center mt-4">
           <img
-            src="/src/assets/icons/github.svg"
+            src="/icons/github.svg"
             alt="mail icon"
             className="w-[32px] aspect-square"
           />
@@ -26,7 +26,7 @@ const Contact = () => {
           </p>
         </div>
         <div className="flex gap-2 items-center mt-4">
-          <img src="/src/assets/icons/phone.svg" alt="mail icon" />
+          <img src="/icons/phone.svg" alt="mail icon" />
           <p>082-212-8138</p>
         </div>
       </div>

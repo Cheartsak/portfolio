@@ -26,20 +26,20 @@ const Project = () => {
           <div className="flex gap-4 mt-6">
             <a href="" target="_blank">
               <div className="flex items-center justify-center border py-1 px-3 bg-light-purple rounded-lg shadow-lg h-full hover:opacity-75">
-                <img src="/src/assets/icons/website.svg" alt="github icon" />
+                <img src="/icons/website.svg" alt="github icon" />
                 <p className="text-white pl-2">Website</p>
               </div>
             </a>
             <a href="" target="_blank">
               <div className="flex items-center justify-center border py-1 px-3 rounded-lg shadow-lg h-full hover:bg-gray-200">
-                <img src="/src/assets/icons/github.svg" alt="github icon" />
+                <img src="/icons/github.svg" alt="github icon" />
                 <p className="text-light-purple">Code</p>
               </div>
             </a>
           </div>
         </div>
         <img
-          src="/src/assets/images/projectPicture.png"
+          src="/images/projectPicture.png"
           alt="project picture"
           className="xl:absolute xl:top-0 xl:right-0 w-4/5 hidden xl:block"
         />
