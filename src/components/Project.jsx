@@ -24,13 +24,16 @@ const Project = () => {
             <p className="border-2 border-green-600 p-1 rounded-lg">MongoDB</p>
           </div>
           <div className="flex gap-4 mt-6">
-            <a href="" target="_blank">
+            <a href="https://i-move.vercel.app/" target="_blank">
               <div className="flex items-center justify-center border py-1 px-3 bg-light-purple rounded-lg shadow-lg h-full hover:opacity-75">
                 <img src="/icons/website.svg" alt="github icon" />
                 <p className="text-white pl-2">Website</p>
               </div>
             </a>
-            <a href="" target="_blank">
+            <a
+              href="https://github.com/Cheartsak/i-move-frontend"
+              target="_blank"
+            >
               <div className="flex items-center justify-center border py-1 px-3 rounded-lg shadow-lg h-full hover:bg-gray-200">
                 <img src="/icons/github.svg" alt="github icon" />
                 <p className="text-light-purple">Code</p>
