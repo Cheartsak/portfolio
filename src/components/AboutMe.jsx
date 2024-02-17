@@ -55,7 +55,7 @@ const AboutMe = () => {
                 target="_blank"
                 className="text-[#35feff] hover:opacity-75"
               >
-                cheartsak_cv.pdf
+                CV_Cheartsak.pdf
               </a>
             </p>
           </div>
